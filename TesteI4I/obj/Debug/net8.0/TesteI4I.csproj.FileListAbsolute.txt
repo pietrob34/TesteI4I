@@ -1,0 +1,14 @@
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\bin\Debug\net8.0\TesteI4I.exe
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\bin\Debug\net8.0\TesteI4I.deps.json
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\bin\Debug\net8.0\TesteI4I.runtimeconfig.json
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\bin\Debug\net8.0\TesteI4I.dll
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\bin\Debug\net8.0\TesteI4I.pdb
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.AssemblyInfoInputs.cache
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.AssemblyInfo.cs
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.csproj.CoreCompileInputs.cache
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.dll
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\refint\TesteI4I.dll
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.pdb
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\TesteI4I.genruntimeconfig.cache
+C:\Users\brakv\source\repos\TesteI4I\TesteI4I\obj\Debug\net8.0\ref\TesteI4I.dll
